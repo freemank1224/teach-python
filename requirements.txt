@@ -9,3 +9,4 @@ notebook>=6.0.0
 requests>=2.28.0
 openpyxl>=3.0.0
 scipy>=1.9.0
+dotenv>=0.20.0
